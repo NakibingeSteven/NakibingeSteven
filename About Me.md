@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @NakibingeSteven Adrian, aproud Ugandan
-- 👀 I’m interested in web development, javascript
-- 🌱 I’m currently learning ES6
-- 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me ...+256 789198566 nakibingesteven202@gmail.com
 
-<!---
-NakibingeSteven/NakibingeSteven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there!
+
+I'm an automotive and power automotive graduate ,technologist,embedded systems enthusiast based in kampala,uganda.am passionate about  everything related to technology. <br>
+In my free time, I run try out exotic programing languages,tinker with assembly language and  I also write about interesting things that I learn along the way. <br>
+When I need to unwind, I usually spend time watching series and playing piano(not good)
+
+## About Me
+- Location: Kampala,uganda
+- Experience: 7 years 🧑🏻‍💻
+- Education: beng automotive and power engineering 
+
+## Skills
+
+#### Languages
+JavaScript
+TypeScript
+PHP
+
+#### Databases
+MySQL
+SQLite
+
+#### Front-End Frameworks
+React
+
+#### Back-End Frameworks
+Laravel
+django
+node js with Express.js
+
+#### DevOps Tools
+GitHub Actions
+
+#### Tools
+Docker
+Figma
+
+
